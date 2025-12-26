@@ -5,7 +5,7 @@
 ![Maintained by JuniorSir](https://img.shields.io/badge/Maintained%20by-JuniorSir-8b5cf6?style=for-the-badge&logo=github&logoColor=white)
 </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/juniorsir/myshort-ultra">
+  <a href="https://github.com/juniorsir/Url_shortner">
     <img src="https://img.shields.io/badge/⭐-STAR_PROJECT-FFD700?style=for-the-badge" />
   </a>
 
@@ -231,7 +231,7 @@ curl -X POST https://myshort.vercel.app/api/shorten \
   </p>
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/juniorsir/myshort-ultra">
+  <a href="https://github.com/juniorsir/Url_shortner">
     <img src="https://img.shields.io/badge/⭐-STAR_PROJECT-FFD700?style=for-the-badge" />
   </a>
 
