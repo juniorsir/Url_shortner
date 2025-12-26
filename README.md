@@ -110,7 +110,6 @@ Access to create links via the API is restricted to authorized partners and admi
 | :--- | :--- |
 | **Telegram** | [![Telegram](https://img.shields.io/badge/Direct_Message-Blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Junior_sir) |
 | **Email** | [![Email](https://img.shields.io/badge/Send_Inquiry-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juniorsir.bot@gmail.com) |
-|[![Follow JuniorSir](https://img.shields.io/github/followers/juniorsir?label=Follow%20%40juniorsir&style=social)](https://github.com/juniorsir)|
 
 <br>
 <i><b>Note:</b> Please include your project name and expected monthly click volume in your request.</i>
