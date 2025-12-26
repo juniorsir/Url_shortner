@@ -135,7 +135,7 @@ def quick_shorten(url, slug=None):
     
     print(f"🚀 Short URL: {res.get('short')}")
 
-quick_shorten("https://youtube.com/watch?v=dQw4w9WgXcQ", "cool-vid")
+quick_shorten("https://github.com/juniorsir", "cool-vid")
 ```
 ### Dont forget to install axios
 
