@@ -223,7 +223,7 @@ curl -X POST https://myshort.vercel.app/api/shorten \
   <h3>🤝 Let's Connect!</h3>
   <p>If you like my projects, feel free to follow me for the latest updates!</p>
   
-  <a href="https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fusers%2Fjuniorsir%2Ffollow">
+  <a href="https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fusers%2Fjuniorsir">
     <img src="https://img.shields.io/badge/FOLLOW-ME%20ON%20GITHUB-8b5cf6?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <p>
