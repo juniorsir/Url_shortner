@@ -1,4 +1,21 @@
+<div align="center">
+
 # 🚀 MyShort Ultra | Professional URL Suite
+
+![Maintained by JuniorSir](https://img.shields.io/badge/Maintained%20by-JuniorSir-8b5cf6?style=for-the-badge&logo=github&logoColor=white)
+</a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/juniorsir/myshort-ultra">
+    <img src="https://img.shields.io/badge/⭐-STAR_PROJECT-FFD700?style=for-the-badge" />
+  </a>
+
+<br />
+
+_A high-performance URL shortening engine featuring a premium Glassmorphism UI and Smart App-Routing technology._
+
+</div>
+
+---
 
 MyShort Ultra is a high-performance URL shortening engine built with **Next.js/Vercel**, featuring a premium **Glassmorphism UI**, **JWT Security**, and a **Smart App-Routing Engine** designed to bypass restricted social media browsers (Instagram, TikTok, Facebook).
 
@@ -93,6 +110,7 @@ Access to create links via the API is restricted to authorized partners and admi
 | :--- | :--- |
 | **Telegram** | [![Telegram](https://img.shields.io/badge/Direct_Message-Blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Junior_sir) |
 | **Email** | [![Email](https://img.shields.io/badge/Send_Inquiry-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juniorsir.bot@gmail.com) |
+|[![Follow JuniorSir](https://img.shields.io/github/followers/juniorsir?label=Follow%20%40juniorsir&style=social)](https://github.com/juniorsir)|
 
 <br>
 <i><b>Note:</b> Please include your project name and expected monthly click volume in your request.</i>
@@ -175,7 +193,7 @@ async function createSmartLink(longUrl, customAlias = null) {
 }
 
 // --- Usage ---
-createSmartLink("https://www.youtube.com/watch?v=dQw4w9WgXcQ", "my-pro-video");
+createSmartLink("https://github.com/juniorsir", "my-pro-video");
 ```
 ### 🖥️ cURL (Terminal/Bash)
 ```bash
@@ -188,7 +206,7 @@ TOKEN=$(curl -s -X POST https://myshort.vercel.app/api/auth \
 curl -X POST https://myshort.vercel.app/api/shorten \
      -H "Authorization: Bearer $TOKEN" \
      -H "Content-Type: application/json" \
-     -d '{"long": "https://google.com"}'
+     -d '{"long": "https://github.com/juniorsir"}'
 ```
 
 ## ⚠️ Error Reference
@@ -199,4 +217,26 @@ curl -X POST https://myshort.vercel.app/api/shorten \
 # 🤝 Credits & Support
 *MyShort Ultra Suite is developed and maintained by JuniorSir.*
 
-# Made with ❤️ by JuniorSir at © 2025 MyShort Ultra Suite
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+  
+  <h3>🤝 Let's Connect!</h3>
+  <p>If you like my projects, feel free to follow me for the latest updates!</p>
+  
+  <a href="https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fusers%2Fjuniorsir%2Ffollow">
+    <img src="https://img.shields.io/badge/FOLLOW-ME%20ON%20GITHUB-8b5cf6?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <p>
+    <img src="https://img.shields.io/github/followers/juniorsir?label=Followers&style=flat-square&color=8b5cf6" />
+  </p>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/juniorsir/myshort-ultra">
+    <img src="https://img.shields.io/badge/⭐-STAR_PROJECT-FFD700?style=for-the-badge" />
+  </a>
+
+  <br><br>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</div>
+
+## Made with ❤️ by JuniorSir at © 2025 MyShort Ultra Suite
