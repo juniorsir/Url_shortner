@@ -225,11 +225,6 @@ curl -X POST https://myshort.vercel.app/api/shorten \
   <a href="https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fjuniorsir">
     <img src="https://img.shields.io/badge/FOLLOW-ME%20ON%20GITHUB-8b5cf6?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <p>
-    <img src="https://img.shields.io/github/followers/juniorsir?label=Followers&style=flat-square&color=8b5cf6" />
-  </p>
-  </a>
-  &nbsp;&nbsp;
   <a href="https://github.com/juniorsir/Url_shortner">
     <img src="https://img.shields.io/badge/⭐-STAR_PROJECT-FFD700?style=for-the-badge" />
   </a>
